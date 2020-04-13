@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586658905 source:c:\users\denis\desktop\programación\tp 1 lab a entregar\tpdeentregacal\tpparaentregar\tpcalculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1586658870 c:\users\denis\desktop\programación\tp 1 lab a entregar\tpdeentregacal\tpparaentregar\tpcalculadora\funciones.h
+
+1586659055 source:c:\users\denis\desktop\programación\tp 1 lab a entregar\tpdeentregacal\tpparaentregar\tpcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
